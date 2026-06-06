@@ -59,6 +59,10 @@ Please see [Celonis Task 3_ Lucidchart.pdf](Celonis%20Task%203_%20Lucidchart.pdf
 
 ---
 
+Please see Notes.md for my general thoughts on my implementation. Also, please see Examples.md for example questions and answers.
+
+---
+
 ## Technical Explanation of the Workflow
 
 **Step 1 — Load Documents**
