@@ -9,6 +9,7 @@ from brain import BrandBrain
 from constitution import check_constitution
 
 FEEDBACK_FILE = Path(__file__).parent / "feedback.csv"
+print("hello")
 
 def save_feedback(question: str, answer: str, sources: list, rating: str) -> None:
     file_exists = FEEDBACK_FILE.exists()
